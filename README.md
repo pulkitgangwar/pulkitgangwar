@@ -1,7 +1,6 @@
 ## Hi there, I'm Pulkit Gangwar 👋
 
-### Front End Engineer with 2+ years of experience specializing in Next.js
-
+### Front End Engineer with 2+ years of experience specializing in React and Next.js
 
 <h2> Skills </h2>
 <a href= https://github.com/pulkitgangwar?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
