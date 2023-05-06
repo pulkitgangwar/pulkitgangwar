@@ -1,6 +1,9 @@
 ## Hi there, I'm Pulkit Gangwar 👋
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-### Front End Engineer with 2+ years of experience specializing in React
+- Front End Engineer with 3 years of experience specializing in React
+- 🔭 Currently working on a Shopify App.
+- 🌱 Learning AI and Machine Learning.
 
 <h2> Skills </h2>
 <a href= https://github.com/pulkitgangwar?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
